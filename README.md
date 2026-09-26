@@ -1,9 +1,15 @@
 Personal Task Manager
 
 Project Code: WST21-PM-2026-SF
+
 Student Name: Villanueva, Ravin Kaye S.
+
 Course & Year: BSIT - 2 
+
 Database Used: MySQL
+
+
+
 
 Screenshots: 
 <img width="1366" height="728" alt="My Tasks (127 0 0 1_8000) - task-manager - Visual Studio Code 26_09_2026 12_38_14 PM" src="https://github.com/user-attachments/assets/b3ea183c-d854-4bd9-9d67-940e3b6baba7" />
